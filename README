@@ -1,0 +1,2 @@
+Learns by playing itself, using RL techniques to assign higher values to positions that tend to win, then uses ML (convNets) to 
+generalize these states into a cohesive model. Repeats this process playing previous iterations of itself.
