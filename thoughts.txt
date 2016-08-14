@@ -1,0 +1,11 @@
+Model this project after alphago. Obviously I don't have the computational resources, or knowledge, but I want to do something similar for connect four. Need to...
+-review reinforcement learning methods for how to save state values when there are far too many to store all
+-use convNet to learn on the state values that are saved. Should be computationally cheaper, and need fewer layers. Still need to get better with convNets
+-need to read/get better with:
+	-nature article on alphago
+	-reinforcement learning barto
+	-cs231n stuff
+
+-pre-project: do this with tic tac toe, purely for didactic measures
+	-skip convNet section, for obvious reasons
+	
